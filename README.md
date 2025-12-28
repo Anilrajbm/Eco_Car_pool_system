@@ -6,9 +6,6 @@ The Eco Car Pool System is a web-based application designed to promote sustainab
 
 This project has been developed with equal contribution by Anilrajbm and ashikams.
 
-
----
-
 Objectives
 
 Encourage shared transportation to reduce carbon emissions
@@ -19,9 +16,6 @@ Provide a simple and efficient carpool management system
 
 Promote sustainable and responsible commuting habits
 
-
-
----
 
 Features
 
@@ -35,10 +29,6 @@ Scalable architecture for future enhancements
 
 Modular design for easy maintenance and upgrades
 
-
-
----
-
 Technology Stack
 
 Frontend: React.js, Tailwind CSS
@@ -51,7 +41,6 @@ Development Tools: Git, npm
 
 
 
----
 
 Project Structure
 
@@ -84,7 +73,6 @@ npm run dev
 The application will run locally on the port displayed in the terminal.
 
 
----
 
 Contributors
 
@@ -97,7 +85,6 @@ This project is a collaborative effort with equal contribution from:
 Both contributors have equally participated in the planning, design, development, and implementation of the system.
 
 
----
 
 Future Enhancements
 
@@ -112,10 +99,7 @@ Emission reduction analytics
 Mobile application support
 
 
-
----
-
 Acknowledgements
 
 We would like to thank the open-source community and educational resources that contributed to the development and learning process behind this project.
- Ashika is it okay
+
